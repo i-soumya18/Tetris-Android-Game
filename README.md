@@ -1,3 +1,3 @@
 ## Screenshots
 
-![Main Screen](./screenshots/main_screen.png)
+![Main Screen](./Screenshot_20250209_212125.png)
